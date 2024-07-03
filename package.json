@@ -1,0 +1,27 @@
+{
+  "name": "movie_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "floxynarteh"
+  },
+  "keywords": [
+    "Season_2021"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "20.14.8",
+    "cors": "^2.8.5",
+    "env-cmd": "^10.1.0",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "node-fetch": "3.3.2"
+  }
+}
